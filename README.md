@@ -19,4 +19,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Formulário de Cadastro](https://alarme-em-js.netlify.app/)
+- [Formulário de Cadastro](https://formulario-pagina-de-cadastro.netlify.app/)
