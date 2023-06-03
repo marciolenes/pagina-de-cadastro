@@ -1,5 +1,3 @@
-# pagina-de-cadastro
-
 ## Formulário de Cadastro em HTML5 e CSS3
 <br>
 <p align="center">
